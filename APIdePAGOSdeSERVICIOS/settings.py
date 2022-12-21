@@ -90,6 +90,28 @@ DATABASES = {
 }
 
 
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'railway',
+#         'USER': 'root',
+#         'PASSWORD': '6qZPje518xGSUPChGOnu',
+#         'HOST': 'containers-us-west-82.railway.app', 
+#         'PORT':'7916'
+#     }
+# }
+
+
+
+
+
+
+
+
+
+
+
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
 
